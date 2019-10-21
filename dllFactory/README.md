@@ -1,12 +1,12 @@
 pentru Windows:
 
 * am nevoie de python 2.7
-- in CMake directorul sursă este dllMaker/src
-- in CMake directorul destinatie este dllMaker/build
+- in CMake directorul sursă este dllFactory/src
+- in CMake directorul destinatie este dllFactory/build
 - Configure
 - Generate
 - deschid solutia prin rularea scriptului
-- setez ca startUp proejct dllMaker.test
+- setez ca startUp proejct dllFactory.test
 - rulez
 
 
